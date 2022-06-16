@@ -1,0 +1,26 @@
+.card{
+  display: flex;
+    height: 100%;
+    padding: 15px 30px;
+    background: #FFFFFF99;
+    border-radius: 15px;
+    margin: 10px;
+}
+h1,p{
+  padding: 0;
+  margin: 0;
+}
+.status{
+  background-color: bisque;
+  border-radius: 90px;
+  text-align: center;
+  font-weight: 500;
+  padding: 5px 15px;
+  position: absolute;
+}
+.taskHeader{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
